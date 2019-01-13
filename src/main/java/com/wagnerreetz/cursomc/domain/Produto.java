@@ -1,4 +1,4 @@
-package com.wagnerreetz.cursomc.domain;
+ package com.wagnerreetz.cursomc.domain;
 
 import java.io.Serializable;
 import java.util.ArrayList;
